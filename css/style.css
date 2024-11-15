@@ -578,7 +578,8 @@ strong {
     z-index: 22;
     top: 0;
     padding-right: 150px;
-    width: 90%;
+    width: 100%;
+    height: 300px;
     min-width: 450px;
   }
 }
